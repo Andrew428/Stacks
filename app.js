@@ -1,4 +1,4 @@
-/* BinarySearchTree */
+/* Stack */
 import  Stack from './util/Stack.js';
 
 window.onload = () => {
@@ -14,5 +14,4 @@ window.onload = () => {
     console.log(myStack.peek());
     console.log(myStack.pop());
     console.log(myStack.peek());
-
 };
